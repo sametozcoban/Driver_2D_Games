@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 4e316907a5d0b884185198f339bcd7c9
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Skyzone
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: ccea4f2923647fb4ea2a2618f3f1d666, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
